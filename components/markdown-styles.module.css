@@ -16,3 +16,9 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.markdown pre {
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: scroll;
+}
