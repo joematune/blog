@@ -1,5 +1,5 @@
 ---
-title: "Learn How TS Bracket Syntax [] Solves Problems You Didn't Know You Had"
+title: "Learn How TS Brackets [] Solve Problems You Didn't Know You Had"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2021-12-01T08:30:07.322Z"
