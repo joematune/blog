@@ -19,9 +19,13 @@ export default async function markdownToHtml(markdown: string) {
 
   const processor = unified()
     .use(fromMarkdown)
+    // @ts-ignore
     .use(withShiki, { highlighter })
+    // @ts-ignore
     .use(toHast, { allowDangerousHtml: true })
+    // @ts-ignore
     .use(withHtmlInMarkdown)
+    // @ts-ignore
     .use(toHtml);
 
   return processor.process(markdown).then((vfile) => {
